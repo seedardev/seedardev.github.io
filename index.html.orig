@@ -3,7 +3,11 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+<<<<<<< HEAD
 	<meta name="generator" content="Hugo 0.80.0" />
+=======
+	<meta name="generator" content="Hugo 0.75.1" />
+>>>>>>> cf63037439370e607f004801b85ffa070ec26cef
     <title>
  			SeedAR 
     </title>
@@ -103,7 +107,7 @@
     <div class="row align-items-center">
       <div class="col-lg-6 col-12 coverInfo">
           <h1 style="font-size:50px" class="h1 text-dark">Planting the future of AR</h1>
-          <p class="text-secondary text-justify">Starting our journey in 2020, SeedAR is an IT start-up focused on providing Augmented Reality (AR) solutions on different platforms including web and mobile. We serve a diverse range of industries including but not limited to retail, education, arts & crafts entertainment, and finance. 
+          <p class="text-secondary text-justify">Established in 2020, SeedAR is an IT start-up focused on providing Augmented Reality (AR) solutions on different platforms including web and mobile. We serve a diverse range of industries including but not limited to food and beverage, education, entertainment, and finance. 
           </p>
           <p class="text-secondary text-justify">At SeedAR, we strive for excellence and value being different and curious. We believe that progress comes from breaking the mould and challenging the norms.</p>
           </p>
@@ -188,7 +192,7 @@
         </div>
       </div>
       <div class="col-12 justify-content-md-center py-5">
-          <img class="" style="max-width: 100%" src="https://seedar.dev/images/covers/screensample.jpg">
+          <img class="" style="max-width: 100%" src="https://seedar.dev/images/covers/screensample.jpeg">
       </div>
     </div>
   </div>
@@ -208,7 +212,7 @@
           <div class="text-muted">CEO &amp; CTO</div>
           <div class="text-center mt-3">
             
-            <a data-toggle="tooltip" data-placement="bottom" title="linkedin" href="https://www.linkedin.com/in/mohammad-nematzadeh-4a45827" target="_blank" class="ml-2 btn btn-sm btn-filled btn-linkedin"><i class="fab fa-linkedin"></i></a>
+            <a data-toggle="tooltip" title="linkedin" href="https://www.linkedin.com/in/mohammad-nematzadeh-4a45827" target="_blank" class="ml-2 btn btn-sm btn-filled btn-linkedin"><i class="fab fa-linkedin"></i></a>
             
           </div>
         </div>
@@ -219,7 +223,7 @@
           <div class="text-muted">Business Developer</div>
           <div class="text-center mt-3">
             
-            <a data-toggle="tooltip" data-placement="bottom" title="linkedin" href="https://www.linkedin.com/in/yasmin-jalali" target="_blank" class="ml-2 btn btn-sm btn-filled btn-linkedin"><i class="fab fa-linkedin"></i></a>
+            <a data-toggle="tooltip" title="linkedin" href="https://www.linkedin.com/in/yasmin-jalali" target="_blank" class="ml-2 btn btn-sm btn-filled btn-linkedin"><i class="fab fa-linkedin"></i></a>
             
           </div>
         </div>
@@ -230,7 +234,7 @@
           <div class="text-muted">Art Director</div>
           <div class="text-center mt-3">
             
-            <a data-toggle="tooltip" data-placement="bottom" title="linkedin" href="https://www.linkedin.com/in/ali-nafezarefi-9b080564" target="_blank" class="ml-2 btn btn-sm btn-filled btn-linkedin"><i class="fab fa-linkedin"></i></a>
+            <a data-toggle="tooltip" title="linkedin" href="https://www.linkedin.com/in/ali-nafezarefi-9b080564" target="_blank" class="ml-2 btn btn-sm btn-filled btn-linkedin"><i class="fab fa-linkedin"></i></a>
             
           </div>
         </div>
@@ -253,7 +257,11 @@
             <div class="text-uppercase text-muted">
               Address
             </div>
+<<<<<<< HEAD
             <div>PMB 452, No. 1641, Lonsdale Ave., North Vancouver, BC V7M 2J5</div>
+=======
+            <div>Manitoba Technology Accelerator, 300-136 Market Street, Winnipeg, Manitoba R3B 0P3</div>
+>>>>>>> cf63037439370e607f004801b85ffa070ec26cef
           </div>
           
           
