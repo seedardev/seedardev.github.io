@@ -22,7 +22,7 @@ $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip();
 
   //Smooth scroll
-  $('a').click(function(){
+  $('.nav-link').click(function(){
     var hash = $(this).attr('href').split('#')[1];
     $('html, body').animate({
         scrollTop: $('#' + hash).offset().top
