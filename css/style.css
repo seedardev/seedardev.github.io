@@ -106,7 +106,15 @@ model-viewer {
   border: none;
   outline: none;
   cursor: pointer;
+  border: none;
+  padding: 0;
+  background: none;
+  box-shadow: 0 4px 6px rgb(50 50 93 / 11%), 0 1px 3px rgb(0 0 0 / 8%);
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
+
+.model-viewer_seedarBtn:focus { outline: none; }
+.model-viewer_seedarBtn:hover { background-color: #24a46d; }
 
 .model-viewer_seedar_title {
   margin-top: 0;
