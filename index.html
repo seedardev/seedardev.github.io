@@ -241,7 +241,9 @@
         <div class="d-flex h-100 align-items-center">
 
           <div>
-            <h2 style="font-size:45px" class=" h1">What We Do</h2>
+            <h2 style="font-size:45px" class="h1">
+              <img class="" src="https://seedar.devimages/covers/logo-white.png" />
+            </h2>
             <p class="text-muted text-justify">We are able to create marker-based, marker-less, and location-based
               augmented reality experiences.</p>
           </div>
@@ -609,25 +611,25 @@
     <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
     <script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
     <script>
-      document.querySelector("#model-viewer").addEventListener('ar-status', (event) => {
-        console.log(event);
-        if(event.detail.status === 'failed'){
-          const error = document.querySelector("#error");
-          error.classList.remove('hide');
-          error.addEventListener('transitionend',(event) => {
-            error.classList.add('hide');
-          });
-        }
-      });
-      window.addEventListener("load", () => {
-        var modelViewer = document.querySelector('model-viewer');
-        
-        
-        
-        
-        
-        console.log("window loaded: " + modelViewer.canActivateAR);
-      });
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
     </script>
 
     <script src="https://seedar.dev/js/script.js"></script>
